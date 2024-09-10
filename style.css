@@ -1,0 +1,51 @@
+body {
+	background-color: #060e1f;
+}
+
+h1 {
+	color: white;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+h2 {
+	color: white;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+h3 {
+	color: white;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+p {
+	color: white;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+a:link {
+	color: #ffcc66;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #ffcc66;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ffe6b3;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #fff7e6;
+	text-decoration: underline;
+}
+
+.text-center {
+	text-align: center;
+}
